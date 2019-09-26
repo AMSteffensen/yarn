@@ -10,6 +10,7 @@ return (
     <img src={logo} className="App-logo" alt="logo" />
     <p clasName="lead">
       Testing out Create React app with Bootstrap and jQuery.
+      Adding a new line, just to test CD.
     </p>
     <button className="btn btn-primary">jQuery modal</button>
   </header>
