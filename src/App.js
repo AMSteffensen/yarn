@@ -5,7 +5,7 @@ import './App.css';
 function App() {
 return (
 <div className="App">
-  <header className="App-header jumbotron">
+  <header className="App-header">
     <h1 className="display-4">Yarn create React App</h1>
     <img src={logo} className="App-logo" alt="logo" />
     <p clasName="lead">
