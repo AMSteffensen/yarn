@@ -5,15 +5,13 @@ import './App.css';
 function App() {
 return (
 <div className="App">
-  <header className="App-header">
+  <header className="App-header jumbotron">
+    <h1 className="display-4">Yarn create React App</h1>
     <img src={logo} className="App-logo" alt="logo" />
-    <p>
-      testing out create react app
+    <p clasName="lead">
+      Testing out Create React app with Bootstrap and jQuery.
     </p>
-    <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-      Learn React
-    </a>
-    <button className="btn btn-primary"> OK </button>
+    <button className="btn btn-primary">jQuery modal</button>
   </header>
 </div>
 );
